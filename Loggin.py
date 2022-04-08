@@ -67,5 +67,3 @@ def agregar_persona(l):
         nueva_persona['telefono']=lista_telefono
 
 
-
-print("este es el carro")
