@@ -65,3 +65,7 @@ def agregar_persona(l):
             if ("N"==input('Desea agregar más telefonos (S o N):').upper()):
                 break
         nueva_persona['telefono']=lista_telefono
+
+
+
+print("este es el carro")
